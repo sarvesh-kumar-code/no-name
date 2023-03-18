@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+}
+.nav-bar{
+    margin-right: 5rem;
+
+    margin-top: 8rem;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+#new-game{
+    border: 0;
+    color: white;
+    background-color: black;
+}
+
+#new-game:hover{
+    cursor: pointer;
+}
